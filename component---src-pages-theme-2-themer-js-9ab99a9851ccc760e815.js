@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{ZA1w:function(e,o,t){"use strict";t.r(o),o.default=function(){var e="black",o="white",t=(new Date).getHours();return t<=7&&(e="#09263E",o="#C9B97E"),(t>=8||t<=12)&&(e="#fbedc0",o="#20396E"),(t>=13||t<=15)&&(e="#7BD6C0",o="#5300c6"),t>=16&&(e="#efc9af",o="#104c91"),{bgColor:e,textColor:o}}}}]);
+//# sourceMappingURL=component---src-pages-theme-2-themer-js-9ab99a9851ccc760e815.js.map
